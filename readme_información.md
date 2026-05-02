@@ -91,9 +91,6 @@ El sistema cubrirá las siguientes funcionalidades dentro del contexto del Resta
 
 - **Registro de consumo:** ingreso diario de los platos consumidos por mesa o pedido
 - **Gestión de cobros:** registro de pagos diarios, semanales y mensuales con seguimiento de deudas
-- **Reportes básicos:** listado de asistencia diaria, deudas pendientes e historial de pagos
-- **Comprobantes:** generación de boletas y facturas en formato digital
-
 **Fuera del alcance:**
 - Integración con plataformas de pago electrónico (Yape, Plin, etc.)
 - App móvil nativa
