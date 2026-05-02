@@ -91,7 +91,6 @@ El sistema cubrirá las siguientes funcionalidades dentro del contexto del Resta
 
 - **Registro de consumo:** ingreso diario de los platos consumidos por mesa o pedido
 - **Gestión de cobros:** registro de pagos diarios, semanales y mensuales con seguimiento de deudas
-- **Pedidos:** registro de pedidos con modalidad presencial, a domicilio o con reserva
 - **Reportes básicos:** listado de asistencia diaria, deudas pendientes e historial de pagos
 - **Comprobantes:** generación de boletas y facturas en formato digital
 
@@ -113,11 +112,8 @@ El sistema cubrirá las siguientes funcionalidades dentro del contexto del Resta
 | RF02 | El sistema debe registrar el consumo diario de cada cliente por fecha |
 | RF03 | El sistema debe gestionar cobros en modalidad diaria, semanal y mensual |
 | RF04 | El sistema debe mostrar el saldo pendiente de cada cliente en tiempo real |
-| RF05 | El sistema debe registrar pedidos indicando modalidad (presencial, domicilio o reserva) |
-| RF06 | El sistema debe generar un reporte diario de asistencia de pensionistas |
-| RF07 | El sistema debe registrar pagos y generar historial por cliente |
-| RF08 | El sistema debe permitir emitir boletas y facturas en formato digital |
-| RF10 | El sistema debe tener un módulo de inicio de sesión para el administrador |
+| RF05 | El sistema debe registrar pagos y generar historial por cliente |
+| RF06 | El sistema debe tener un módulo de inicio de sesión para el administrador |
 
 #### Requisitos No Funcionales
 
